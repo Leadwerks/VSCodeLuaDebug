@@ -1,4 +1,4 @@
-# Leadwerks Lua
+# Lua for Leadwerks
 
 This is the official Leadwerks Lua extension for Visual Studio Code, based in part on [lua-debug by Devcat](https://marketplace.visualstudio.com/items?itemName=devCAT.lua-debug).
 
