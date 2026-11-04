@@ -1,3 +1,6 @@
+## 1.2.0
+* Recompiled debug adapter and changed icon
+
 ## 1.1.0
 * Now supports non-Windows environments. (experimental)
 * Fixed several bugs.

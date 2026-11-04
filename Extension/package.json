@@ -1,7 +1,7 @@
 {
     "name": "lua-leadwerks",
     "displayName": "Lua for Leadwerks",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "publisher": "leadwerks",
     "icon": "images/icon.png",
     "description": "Lua support for Leadwerks Game Engine",

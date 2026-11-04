@@ -61,8 +61,14 @@ namespace VSCodeDebug
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "WaitingUI";
-            this.Text = "Lua Debugger by devCAT";
+            this.Text = "Lua Debugger by Leadwerks Software";
+            this.Load += new System.EventHandler(this.WaitingUI_Load);
             this.ResumeLayout(false);
+
+        }
+
+        private void WaitingUI_Load(object sender, EventArgs e)
+        {
 
         }
     }
